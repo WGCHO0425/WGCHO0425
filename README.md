@@ -1,5 +1,7 @@
 ![self](https://capsule-render.vercel.app/api?type=waving&height=255&color=gradient&text=WGCHO&reversal=true)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWGCHO0425&count_bg=%233DC8A9&title_bg=%234073B6&icon=googlekeep.svg&icon_color=%23E7E7E7&title=Total&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Hi there 👋
 
 
