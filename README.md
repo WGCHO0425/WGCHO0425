@@ -1,3 +1,5 @@
+![self](https://capsule-render.vercel.app/api?type=waving&height=255&color=gradient&text=WGCHO&reversal=true)
+
 ### Hi there 👋
 
 
